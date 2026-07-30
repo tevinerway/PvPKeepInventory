@@ -1,0 +1,20 @@
+PvPKeepInventory
+│
+├── build.gradle
+├── settings.gradle
+├── gradle.properties
+│
+├── src
+│   └── main
+│       ├── java
+│       │   └── com
+│       │       └── tevin
+│       │           └── pvpkeepinventory
+│       │               └── PvPKeepInventory.java
+│       │
+│       └── resources
+│           └── fabric.mod.json
+│
+└── .github
+    └── workflows
+        └── build.yml   ← THIS GOES HERE
